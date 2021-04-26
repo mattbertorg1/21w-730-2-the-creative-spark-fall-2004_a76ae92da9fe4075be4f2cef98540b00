@@ -1,0 +1,12 @@
+---
+course_id: 21w-730-2-the-creative-spark-fall-2004
+description: Instructions for a brief writing assignment.
+file_location: /coursemedia/21w-730-2-the-creative-spark-fall-2004/0a6046e0d160f365c9347632b76f8d84_homework_9.pdf
+file_type: application/pdf
+layout: pdf
+title: homework_9.pdf
+type: course
+uid: 0a6046e0d160f365c9347632b76f8d84
+
+---
+None
